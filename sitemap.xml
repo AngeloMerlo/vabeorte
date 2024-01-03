@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.vabeorte.com.br/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.vabeorte.com.br/</loc>
+</url>
+<url>
+<loc>https://www.vabeorte.com.br/christopher-judge-nao-quer-interpretar-kratos-jovem/</loc>
+<lastmod>2024-01-03T08:28:55-03:00</lastmod>
+<image:image>
+<image:loc>https://www.vabeorte.com.br/media/posts/5/god-of-war.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.vabeorte.com.br/contato/</loc>
+<lastmod>2024-01-03T09:15:21-03:00</lastmod>
+<image:image>
+<image:loc>https://www.vabeorte.com.br/media/posts/4/contato.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.vabeorte.com.br/politica-de-privacidade/</loc>
+<lastmod>2024-01-03T09:15:36-03:00</lastmod>
+<image:image>
+<image:loc>https://www.vabeorte.com.br/media/posts/2/politica-de-privacidade.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.vabeorte.com.br/quem-somos/</loc>
+<lastmod>2024-01-03T09:15:42-03:00</lastmod>
+<image:image>
+<image:loc>https://www.vabeorte.com.br/media/posts/1/quem-somos.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.vabeorte.com.br/termos-de-uso/</loc>
+<lastmod>2024-01-03T09:15:28-03:00</lastmod>
+<image:image>
+<image:loc>https://www.vabeorte.com.br/media/posts/3/termos-de-uso.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
